@@ -2,6 +2,10 @@
 
 _[Rick Ross - Stay Schemin](http://www.youtube.com/watch?v=-6ebutx-Fww)_
 
+### Installation
+
+	npm install scheme
+
 ### Synopsys
 
 This was created originally to help construct `request` URI's, by building each part of the URI separately I could easily have variables in the URI. This helps for oAuth.
