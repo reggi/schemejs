@@ -1,0 +1,24 @@
+{
+  "name": "scheme",
+  "description": "Uniform Resource Identifier Builder",
+  "version": "0.0.1",
+  "author": {
+    "name": "Thomas Reggi",
+    "email": "thomas@reggi.com",
+    "url": "http://reggi.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reggi/schemejs.git"
+  },
+  "keywords": [
+    "util",
+    "uri",
+    "scheme",
+    "url"
+  ],
+  "dependencies": {
+    "phpjs": "0.0.1",
+    "underscore": "1.4.2"
+  }
+}
